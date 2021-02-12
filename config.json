@@ -4,7 +4,7 @@
         "update_timeout": 1000
     },
     "bot": {
-        "token": "1401911964:AAGQt8DJzuh3ndkZHAiUf5DDGHRY-K2h7wk",
+        "token": "<token>",
         "parse_mode": "HTML"
     }
 }
